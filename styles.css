@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.x {
+    color: orange;
+    font-style: italic;
+}
+
+.l {
+    color: #ff0080;
+    font-style: italic;
+}
+
+.para {
+    color: gray;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.img-editing {
+    width: 270px;
+}
+
+.introduction {
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #ff0080;
+    font-size: 25px;
+}
+
+.introduction-heading {
+    font-weight: bold;
+    font-family: "Roboto";
+    color: black;
+    font-size: 40px;
+}
+
+.inr-para {
+    font-family: "Roboto";
+    color: gray;
+    font-size: 20px;
+}
+
+.follow-heading {
+    color: gray;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.follow-us-bg {
+    background-color: #000033;
+}
+
+.hori-follow {
+    background-color: white;
+    font-size: 30px;
+}
+
+.follow-parra {
+    color: gray;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.size {
+    color: gray;
+    font-size: 25px;
+}
+
+.process-bg {
+    background-color: #ffe6f0;
+}
+
+.icon-2 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-radius: 80px;
+    margin-left: 20px;
+}
+
+.background-img {
+    background-color: black;
+}
+
+.hori-bg {
+    background-color: black;
+}
+
+.img {
+    height: 60px;
+    width: 80px;
+}
